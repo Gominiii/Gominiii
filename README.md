@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Gominiii
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gominikrishnappa@gmail.com
 
 <!---
